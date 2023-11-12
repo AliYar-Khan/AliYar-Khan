@@ -1,10 +1,20 @@
-[![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://www.linkedin.com/in/aliyark145)
+[![MasterHead](https://github.com/AliYar-Khan/AliYar-Khan/blob/main/banner.png)](https://www.linkedin.com/in/aliyark145)
 <h1 align="center">Hi 👋, I'm Ali Yar Khan</h1>
 <h3 align="center">A passionate Full Stack Web & Mobile developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyar-khan&label=Profile%20views&color=0e75b6&style=flat" alt="aliyar-khan" /> </p>
+
+
+- 🔭 I’m currently working on **Artzii**
+
+- 💬 Ask me about **React, React Native, MERN, Flutter**
+
+- 📫 How to reach me **aliyark145@gmail.com**
+
+- ⚡ Fun fact **I am very serious**
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliyar-khan" alt="aliyar-khan" /></a> </p>
 

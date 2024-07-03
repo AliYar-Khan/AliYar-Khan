@@ -1,11 +1,11 @@
 [![MasterHead](https://github.com/AliYar-Khan/AliYar-Khan/blob/main/banner.png)](https://www.linkedin.com/in/aliyark145)
+
 <h1 align="center">Hi 👋, I'm Ali Yar Khan</h1>
 <h3 align="center">A passionate Full Stack Web & Mobile developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyar-khan&label=Profile%20views&color=0e75b6&style=flat" alt="aliyar-khan" /> </p>
-
 
 - 🔭 I’m currently working on **Artzii**
 
@@ -14,7 +14,6 @@
 - 📫 How to reach me **aliyark145@gmail.com**
 
 - ⚡ Fun fact **I am very serious**
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliyar-khan" alt="aliyar-khan" /></a> </p>
 

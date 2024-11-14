@@ -34,5 +34,5 @@
 <h3 align="left">Github@<a href="https://github.com/aliyar-khan">AliYar-Khan</a></h3> 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aliyar-khan&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyar-khan&theme=dark" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyar-khan&theme=dark" /> -->
 </p>
